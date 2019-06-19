@@ -11,7 +11,8 @@
 }
 .headerText{
   font-size: 80px;
+  font-family: "Times New Roma", Times, serif;
   margin: auto 0;
   font-weight: bold;
-  color: #eeeeee;
+  color: rgb(241, 239, 233);
 }

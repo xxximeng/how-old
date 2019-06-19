@@ -13,9 +13,9 @@
     padding-top: 5px;
     padding-bottom: 0px;
     height: 51vh;
-    background-color: #202125;
+    background-color: rgb(245, 237, 237);
     border-radius: 20px;
-    color: white;
+    color: rgb(29, 55, 63);
   }
   
   .image1 {
@@ -26,13 +26,14 @@
   .dank {
     display:flex;
     justify-content:center;
-    color: white;
+    color:rgb(241, 239, 233);
     font-size: 20px;
   }
   
   .dropZoneText {
     height: 50vh;
     display: flex;
+    font-family: "Microsoft New Tai Lue", Times, serif;
     justify-content: center;
     flex-direction: column;
     text-align: center;
